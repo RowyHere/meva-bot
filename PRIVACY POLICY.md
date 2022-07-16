@@ -12,7 +12,6 @@ Belirli komutlar yürütüldüğünde, çeşitli veriler daha sonra kullanılmak
 # 2. Bu veriler ne için saklanıyor?
 - Sunucu Kimlikleri: Sunucu Kimlikleri, botun her sunucu için sunucu dili, çekiliş, soru ve anket ayarlarını tam olarak kaydetmesine izin vermek için kaydedilir. Bir sunucudan gelen sunucu kimliği, sunucunun bota spam göndermesi veya sunucuyu bottan yasaklamak için benzeri bir şey yapması durumunda da kaydedilebilir.
 - Kullanıcı Kimlikleri: Kullanıcı kimlikleri kaydedilebilir, böylece bota zarar vermek isteyen kişiler bottan yasaklanabilir. Kullanıcı kimlikleri, çekilişi kimin oluşturduğunu ve kimlerin kazandığını bilebilmek, daha sonra yeniden çekme gibi aksiyonlarda kullanılabilmek üzere kaydedilebilir.
-- Rol Kimlikleri: Eğer çekilişinizde ödül olarak rol veriyorsanız veya rol şartı koyduysanız, kullanıcının bu rollere sahip olup olmadığını belirlemek için kaydedilebilir.
 - Mesaj Kimlikleri: Bir Çekiliş başlatıldığında Mesaj Kimlikleri kaydedilir. Botun bir çekilişin nerede olduğunu bilmesi için buna ihtiyacı var.
 
 # 3. Verilerin silinmesi
