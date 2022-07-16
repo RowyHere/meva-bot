@@ -21,3 +21,27 @@ Verileri silmek için farklı yöntemler vardır:
 - Verilerinizin silinmesi için destek ekibiyle iletişime geçebilirsiniz.
 - Botun sakladığı veriler sadece bot tarafından kullanılır ve başkasına aktarılamaz/satılamaz. Botun geliştiricisi verilere manuel olarak erişebilir.
 - Kullanıcı kimliğiniz veya bir sunucunun kimliği, botun spam veya benzeri bir nedenle sizin tarafınızdan kaydedilmişse, veri silme veya benzeri muhtemelen mümkün değildir.
+
+# Privacy Policy
+As soon as you use Meva or invite it to a server, you automatically accept the bot's privacy policy.
+
+# 1. What data do we store?
+When certain commands are executed, various data can be stored for later use. Among the recorded data may be the following Dec:
+
+- Server ID's
+- User ID's
+- Channel ID's
+- Message ID's
+
+# 2. What is this data stored for?
+- Server IDs: Server IDs are saved to allow the bot to fully save the server language, giveaways, question and survey settings for each server. The server ID from a server can also be saved if the server sends spam to the bot or does something similar to ban the server from the bot.
+- User IDs: User IDs can be saved so that people who want to harm the bot can be banned from the bot. User IDs can be saved so that you can know who created the lottery and who won it, and then use it for actions such as re-drawing.
+- Message IDs: Message IDs are saved when a Raffle is started. The bot needs this to know where a draw is.
+
+# 3. Deletion of data
+There are different methods for deleting data:
+
+- If you are the moderator/administrator of a server, just remove the bot from the server. The bot deletes all data stored by this server from the database.
+- You can contact the support team to have your data deleted.
+- The data stored by the bot is used only by the bot and cannot be transferred/sold to anyone else. The developer of the bot can access the data manually.
+- If your user ID or the identity of a server has been saved by you for spam of the bot or similar reason, data deletion or similar is probably not possible.
