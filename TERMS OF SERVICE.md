@@ -10,3 +10,16 @@ Bot ingilizce bir çekiliş botudur. Size hızlı ve kolay bir şekilde çekili�
 - Hatalar veya benzerleri ortaya çıkarsa, bunlar derhal bildirilmelidir.
 - Bot sadece yasal amaçlar için kullanılmalıdır.
 - Bot herhangi bir şekilde adil bir şekilde kullanılmazsa, bot yasağı ile sonuçlanabilir.
+
+# Terms of Use
+After using Meva or being invited to a server, you automatically agree to the bot's terms of service.
+
+# 1. What does the bot offer?
+The bot is an English giveaway bot. It offers you many commands to quickly and easily create giveaways.
+
+# 2. What are the requirements for using the bot?
+- Each user can use the bot without paying any cost and the like.
+- The bot cannot be spammed or exploited.
+- If errors or the like occur, they should be reported immediately.
+- The bot should only be used for legal purposes.
+- If the bot is not used fairly in any way, it may result in a bot ban.
